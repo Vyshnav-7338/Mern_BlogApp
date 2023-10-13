@@ -1,0 +1,25 @@
+.navbar-header {
+  width: 100%;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: linear-gradient(
+    79deg,
+    rgb(3, 3, 154),
+    rgb(207, 8, 41),
+    rgb(4, 4, 150)
+  );
+}
+.link {
+  color: #fff;
+  text-decoration: none;
+  margin: 0px 10px;
+}
+.btn_input {
+  background-color: transparent;
+  border: none;
+  color: #fff;
+  font-weight: bolder;
+  font-size: 15px;
+}

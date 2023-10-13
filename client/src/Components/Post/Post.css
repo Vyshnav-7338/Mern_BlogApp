@@ -1,0 +1,32 @@
+.posts {
+  width: 80%;
+  margin: 10px;
+  border: 1px solid gray;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 60px;
+  display: flexbox;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.posts img {
+  width: 30em;
+  height: 20em;
+  border: 1px solid gray;
+}
+.posts .posts_text {
+  margin-left: 20px;
+}
+.posts button {
+  margin: 2px;
+  padding: 7px;
+  color: #fff;
+}
+.posts .btn-edit {
+  background-color: green;
+}
+.posts .btn-delete {
+  background-color: red;
+}
